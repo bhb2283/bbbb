@@ -13,3 +13,6 @@ git remote -v to check if we have remote repository
 git remote add origin https://github.com/bhb2283/bbbb.git - to add  https://github.com/bhb2283/bbbb.git as remote repository 
 git pull origin master
 git push origin'current branch'
+
+Question
+i need command to delete a branch.
