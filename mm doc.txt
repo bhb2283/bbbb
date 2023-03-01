@@ -1,1 +1,3 @@
 my new branch is bettyb.
+
+we now have 2 contributors. mike2b and bettyb. we also have 4 branches. we need to remove mikeb branch.
