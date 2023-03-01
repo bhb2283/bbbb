@@ -1,0 +1,10 @@
+git commands
+
+git init
+status
+git add
+git commit -m "your message"
+git branch
+git branch -b newBranch
+git checkout 'branch name'
+
