@@ -7,4 +7,4 @@ git commit -m "your message"
 git branch
 git branch -b newBranch
 git checkout 'branch name'
-
+git merge 'branch name'
